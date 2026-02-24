@@ -5,7 +5,7 @@ draft: "false"
 summary: ""
 ---
 
-**Authentic German pizza, made with love since 1995.**
+**Authentic HAAAAKLKKLOOOO pizza, made with love since 1995.**
 
 We use only the finest ingredients—imported Italian flour, San Marzano tomatoes, and fresh mozzarella—baked to perfection in our wood-fired oven. Every pizza tells a story of tradition, family, and the simple joy of sharing a great meal.
 

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/n0rthk1n9/Coding/private/StaticWebsiteGenerator/hugotest",
+	"sourceRoot": "/Users/n0rthk1n9/Documents/HugoBuilder/Sites/hugotest",
 	"sources": [
 		"ananke/css/main.css"
 	],
