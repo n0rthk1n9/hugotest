@@ -1,5 +1,5 @@
 ---
-title: "Meat Lover"
+title: "Meat Loversssssss"
 date: "2025-02-24"
 draft: "false"
 summary: "Pepperoni, sausage, ham, bacon, and meatballs. The ultimate carnivore pizza."
