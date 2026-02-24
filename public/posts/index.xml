@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Tony&#39;s Pizza</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on Tony&#39;s Pizza</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Weekly Special: Truffle Mushroom Pizza</title>
-      <link>http://localhost:1313/posts/weekly-special-truffle-mushroom/</link>
+      <link>https://example.org/posts/weekly-special-truffle-mushroom/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/weekly-special-truffle-mushroom/</guid>
+      <guid>https://example.org/posts/weekly-special-truffle-mushroom/</guid>
       <description>This week only—creamy truffle sauce, wild mushrooms, and fontina. A luxurious treat.</description>
     </item>
     <item>
       <title>30th Anniversary Celebration</title>
-      <link>http://localhost:1313/posts/grand-reopening-anniversary/</link>
+      <link>https://example.org/posts/grand-reopening-anniversary/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/grand-reopening-anniversary/</guid>
+      <guid>https://example.org/posts/grand-reopening-anniversary/</guid>
       <description>Join us March 1st as we celebrate three decades of Tony&amp;rsquo;s Pizza. Specials, live music, and gratitude.</description>
     </item>
     <item>
       <title>New: Gluten-Free Crust</title>
-      <link>http://localhost:1313/posts/new-gluten-free-option/</link>
+      <link>https://example.org/posts/new-gluten-free-option/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/new-gluten-free-option/</guid>
+      <guid>https://example.org/posts/new-gluten-free-option/</guid>
       <description>We now offer a certified gluten-free crust on any pizza. Same great taste, made for everyone.</description>
     </item>
   </channel>

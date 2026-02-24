@@ -2,66 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://example.org/about/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/menu/bbq-chicken/</loc>
+    <loc>https://example.org/menu/bbq-chicken/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/classic/</loc>
+    <loc>https://example.org/tags/classic/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://example.org/contact/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/menu/diavola/</loc>
+    <loc>https://example.org/menu/diavola/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/menu/hawaiian/</loc>
+    <loc>https://example.org/menu/hawaiian/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/menu/margherita/</loc>
+    <loc>https://example.org/menu/margherita/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/menu/meat-lovers/</loc>
+    <loc>https://example.org/menu/meat-lovers/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/menu/</loc>
+    <loc>https://example.org/menu/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/menu/pepperoni/</loc>
+    <loc>https://example.org/menu/pepperoni/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/menu/quattro-formaggi/</loc>
+    <loc>https://example.org/menu/quattro-formaggi/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/spicy/</loc>
+    <loc>https://example.org/tags/spicy/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vegetarian/</loc>
+    <loc>https://example.org/tags/vegetarian/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/menu/veggie-supreme/</loc>
+    <loc>https://example.org/menu/veggie-supreme/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/weekly-special-truffle-mushroom/</loc>
+    <loc>https://example.org/posts/weekly-special-truffle-mushroom/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/grand-reopening-anniversary/</loc>
+    <loc>https://example.org/posts/grand-reopening-anniversary/</loc>
     <lastmod>2025-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/new-gluten-free-option/</loc>
+    <loc>https://example.org/posts/new-gluten-free-option/</loc>
     <lastmod>2025-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url>
 </urlset>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vegetarian on Tony&#39;s Pizza</title>
-    <link>http://localhost:1313/tags/vegetarian/</link>
+    <link>https://example.org/tags/vegetarian/</link>
     <description>Recent content in Vegetarian on Tony&#39;s Pizza</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/vegetarian/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/vegetarian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Margherita</title>
-      <link>http://localhost:1313/menu/margherita/</link>
+      <link>https://example.org/menu/margherita/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/menu/margherita/</guid>
+      <guid>https://example.org/menu/margherita/</guid>
       <description>The classic Neapolitan—tomato, fresh mozzarella, basil, and olive oil. Simple perfection.</description>
     </item>
     <item>
       <title>Quattro Formaggi</title>
-      <link>http://localhost:1313/menu/quattro-formaggi/</link>
+      <link>https://example.org/menu/quattro-formaggi/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/menu/quattro-formaggi/</guid>
+      <guid>https://example.org/menu/quattro-formaggi/</guid>
       <description>Four cheeses—mozzarella, gorgonzola, parmesan, and fontina—on a white base. Rich and creamy.</description>
     </item>
     <item>
       <title>Veggie Supreme</title>
-      <link>http://localhost:1313/menu/veggie-supreme/</link>
+      <link>https://example.org/menu/veggie-supreme/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/menu/veggie-supreme/</guid>
+      <guid>https://example.org/menu/veggie-supreme/</guid>
       <description>Bell peppers, onions, mushrooms, olives, tomatoes, and spinach. Loaded with fresh vegetables.</description>
     </item>
   </channel>

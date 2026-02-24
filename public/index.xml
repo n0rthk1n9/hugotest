@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to Tony&#39;s Pizza on Tony&#39;s Pizza</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content in Welcome to Tony&#39;s Pizza on Tony&#39;s Pizza</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Us</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://example.org/about/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://example.org/about/</guid>
       <description>&lt;h2 id=&#34;our-story&#34;&gt;Our Story&lt;/h2&gt;&#xA;&lt;p&gt;Tony&amp;rsquo;s Pizza started in 1995 when Antonio &amp;ldquo;Tony&amp;rdquo; Rossi brought his grandmother&amp;rsquo;s recipes from Naples to Main Street. What began as a small corner shop has grown into a neighborhood institution—but our commitment to quality has never changed.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-makes-us-different&#34;&gt;What Makes Us Different&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Wood-fired oven&lt;/strong&gt; — Our 800°F brick oven gives every pizza that perfect char and crisp crust&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Fresh daily&lt;/strong&gt; — Dough made from scratch every morning, never frozen&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Family recipes&lt;/strong&gt; — Secret sauces and techniques passed down through generations&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Local when possible&lt;/strong&gt; — We source from local farms for seasonal specials&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;visit-us&#34;&gt;Visit Us&lt;/h2&gt;&#xA;&lt;p&gt;We&amp;rsquo;re more than a restaurant—we&amp;rsquo;re a gathering place. Come for the pizza, stay for the atmosphere. Kids are always welcome, and we&amp;rsquo;re happy to accommodate dietary needs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>BBQ Chicken</title>
-      <link>http://localhost:1313/menu/bbq-chicken/</link>
+      <link>https://example.org/menu/bbq-chicken/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/menu/bbq-chicken/</guid>
+      <guid>https://example.org/menu/bbq-chicken/</guid>
       <description>Smoky BBQ sauce, grilled chicken, red onion, and cilantro. A twist on the classic.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://example.org/contact/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://example.org/contact/</guid>
       <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;&#xA;&lt;p&gt;We&amp;rsquo;d love to hear from you! Whether you have a question, want to place an order, or need to book a table for a group, we&amp;rsquo;re here to help.&lt;/p&gt;&#xA;&lt;h2 id=&#34;location&#34;&gt;Location&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tony&amp;rsquo;s Pizza&lt;/strong&gt;&lt;br&gt;&#xA;123 Main Street&lt;br&gt;&#xA;Your City, ST 12345&lt;/p&gt;&#xA;&lt;h2 id=&#34;hours&#34;&gt;Hours&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Day&lt;/th&gt;&#xA;          &lt;th&gt;Hours&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Monday&lt;/td&gt;&#xA;          &lt;td&gt;Closed&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tue–Thu&lt;/td&gt;&#xA;          &lt;td&gt;11am – 9pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Fri–Sat&lt;/td&gt;&#xA;          &lt;td&gt;11am – 10pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sunday&lt;/td&gt;&#xA;          &lt;td&gt;12pm – 8pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;contact-info&#34;&gt;Contact Info&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; (555) 123-4567&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:hello@tonyspizza.example.org&#34;&gt;hello@tonyspizza.example.org&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;order-online&#34;&gt;Order Online&lt;/h2&gt;&#xA;&lt;p&gt;Call us to place an order for pickup or delivery. We deliver within a 5-mile radius—free delivery on orders over $25!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Diavola</title>
-      <link>http://localhost:1313/menu/diavola/</link>
+      <link>https://example.org/menu/diavola/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/menu/diavola/</guid>
+      <guid>https://example.org/menu/diavola/</guid>
       <description>Spicy salami, fresh mozzarella, and chili oil. For those who like it hot.</description>
     </item>
     <item>
       <title>Hawaiian</title>
-      <link>http://localhost:1313/menu/hawaiian/</link>
+      <link>https://example.org/menu/hawaiian/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/menu/hawaiian/</guid>
+      <guid>https://example.org/menu/hawaiian/</guid>
       <description>Ham, pineapple, and mozzarella. Sweet, salty, and surprisingly divisive—but our version wins converts.</description>
     </item>
     <item>
       <title>Margherita</title>
-      <link>http://localhost:1313/menu/margherita/</link>
+      <link>https://example.org/menu/margherita/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/menu/margherita/</guid>
+      <guid>https://example.org/menu/margherita/</guid>
       <description>The classic Neapolitan—tomato, fresh mozzarella, basil, and olive oil. Simple perfection.</description>
     </item>
     <item>
       <title>Meat Lover</title>
-      <link>http://localhost:1313/menu/meat-lovers/</link>
+      <link>https://example.org/menu/meat-lovers/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/menu/meat-lovers/</guid>
+      <guid>https://example.org/menu/meat-lovers/</guid>
       <description>Pepperoni, sausage, ham, bacon, and meatballs. The ultimate carnivore pizza.</description>
     </item>
     <item>
       <title>Pepperoni</title>
-      <link>http://localhost:1313/menu/pepperoni/</link>
+      <link>https://example.org/menu/pepperoni/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/menu/pepperoni/</guid>
+      <guid>https://example.org/menu/pepperoni/</guid>
       <description>America&amp;rsquo;s favorite—spicy pepperoni, tomato sauce, and mozzarella. A crowd-pleaser.</description>
     </item>
     <item>
       <title>Quattro Formaggi</title>
-      <link>http://localhost:1313/menu/quattro-formaggi/</link>
+      <link>https://example.org/menu/quattro-formaggi/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/menu/quattro-formaggi/</guid>
+      <guid>https://example.org/menu/quattro-formaggi/</guid>
       <description>Four cheeses—mozzarella, gorgonzola, parmesan, and fontina—on a white base. Rich and creamy.</description>
     </item>
     <item>
       <title>Veggie Supreme</title>
-      <link>http://localhost:1313/menu/veggie-supreme/</link>
+      <link>https://example.org/menu/veggie-supreme/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/menu/veggie-supreme/</guid>
+      <guid>https://example.org/menu/veggie-supreme/</guid>
       <description>Bell peppers, onions, mushrooms, olives, tomatoes, and spinach. Loaded with fresh vegetables.</description>
     </item>
     <item>
       <title>Weekly Special: Truffle Mushroom Pizza</title>
-      <link>http://localhost:1313/posts/weekly-special-truffle-mushroom/</link>
+      <link>https://example.org/posts/weekly-special-truffle-mushroom/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/weekly-special-truffle-mushroom/</guid>
+      <guid>https://example.org/posts/weekly-special-truffle-mushroom/</guid>
       <description>This week only—creamy truffle sauce, wild mushrooms, and fontina. A luxurious treat.</description>
     </item>
     <item>
       <title>30th Anniversary Celebration</title>
-      <link>http://localhost:1313/posts/grand-reopening-anniversary/</link>
+      <link>https://example.org/posts/grand-reopening-anniversary/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/grand-reopening-anniversary/</guid>
+      <guid>https://example.org/posts/grand-reopening-anniversary/</guid>
       <description>Join us March 1st as we celebrate three decades of Tony&amp;rsquo;s Pizza. Specials, live music, and gratitude.</description>
     </item>
     <item>
       <title>New: Gluten-Free Crust</title>
-      <link>http://localhost:1313/posts/new-gluten-free-option/</link>
+      <link>https://example.org/posts/new-gluten-free-option/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/new-gluten-free-option/</guid>
+      <guid>https://example.org/posts/new-gluten-free-option/</guid>
       <description>We now offer a certified gluten-free crust on any pizza. Same great taste, made for everyone.</description>
     </item>
   </channel>
