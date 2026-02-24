@@ -1,5 +1,5 @@
 ---
-title: "Hawaiian"
+title: "Hawaiiansadsadasd"
 date: "2025-02-24"
 draft: "false"
 summary: "Ham, pineapple, and mozzarella. Sweet, salty, and surprisingly divisive—but our version wins converts."
