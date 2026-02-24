@@ -1,0 +1,26 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Tony's Pizza"
+theme = 'ananke'
+
+[params]
+  author = "Tony's Pizza"
+  description = "Authentic Italian pizza made with love since 1995. Fresh ingredients, wood-fired oven, family recipes."
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Menu'
+    pageRef = '/menu'
+    weight = 20
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 30
+  [[menus.main]]
+    name = 'Contact'
+    pageRef = '/contact'
+    weight = 40

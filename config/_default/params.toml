@@ -1,0 +1,10 @@
+# Override Ananke theme params for Tony's Pizza
+[ananke]
+show_recent_posts = true
+
+[ananke.home]
+content_alignment = "center"
+
+# Show posts (specials/news) on homepage - use "posts" section
+mainSections = ["posts"]
+recent_posts_number = 3

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spicy on Tony&#39;s Pizza</title>
+    <link>http://localhost:1313/tags/spicy/</link>
+    <description>Recent content in Spicy on Tony&#39;s Pizza</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/spicy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diavola</title>
+      <link>http://localhost:1313/menu/diavola/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/menu/diavola/</guid>
+      <description>Spicy salami, fresh mozzarella, and chili oil. For those who like it hot.</description>
+    </item>
+  </channel>
+</rss>

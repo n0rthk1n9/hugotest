@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Menu on Tony&#39;s Pizza</title>
+    <link>http://localhost:1313/menu/</link>
+    <description>Recent content in Our Menu on Tony&#39;s Pizza</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/menu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BBQ Chicken</title>
+      <link>http://localhost:1313/menu/bbq-chicken/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/menu/bbq-chicken/</guid>
+      <description>Smoky BBQ sauce, grilled chicken, red onion, and cilantro. A twist on the classic.</description>
+    </item>
+    <item>
+      <title>Diavola</title>
+      <link>http://localhost:1313/menu/diavola/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/menu/diavola/</guid>
+      <description>Spicy salami, fresh mozzarella, and chili oil. For those who like it hot.</description>
+    </item>
+    <item>
+      <title>Hawaiian</title>
+      <link>http://localhost:1313/menu/hawaiian/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/menu/hawaiian/</guid>
+      <description>Ham, pineapple, and mozzarella. Sweet, salty, and surprisingly divisive—but our version wins converts.</description>
+    </item>
+    <item>
+      <title>Margherita</title>
+      <link>http://localhost:1313/menu/margherita/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/menu/margherita/</guid>
+      <description>The classic Neapolitan—tomato, fresh mozzarella, basil, and olive oil. Simple perfection.</description>
+    </item>
+    <item>
+      <title>Meat Lovers</title>
+      <link>http://localhost:1313/menu/meat-lovers/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/menu/meat-lovers/</guid>
+      <description>Pepperoni, sausage, ham, bacon, and meatballs. The ultimate carnivore pizza.</description>
+    </item>
+    <item>
+      <title>Pepperoni</title>
+      <link>http://localhost:1313/menu/pepperoni/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/menu/pepperoni/</guid>
+      <description>America&amp;rsquo;s favorite—spicy pepperoni, tomato sauce, and mozzarella. A crowd-pleaser.</description>
+    </item>
+    <item>
+      <title>Quattro Formaggi</title>
+      <link>http://localhost:1313/menu/quattro-formaggi/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/menu/quattro-formaggi/</guid>
+      <description>Four cheeses—mozzarella, gorgonzola, parmesan, and fontina—on a white base. Rich and creamy.</description>
+    </item>
+    <item>
+      <title>Veggie Supreme</title>
+      <link>http://localhost:1313/menu/veggie-supreme/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/menu/veggie-supreme/</guid>
+      <description>Bell peppers, onions, mushrooms, olives, tomatoes, and spinach. Loaded with fresh vegetables.</description>
+    </item>
+  </channel>
+</rss>
