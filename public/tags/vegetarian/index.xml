@@ -22,12 +22,5 @@
       <guid>https://example.org/menu/quattro-formaggi/</guid>
       <description>Four cheeses—mozzarella, gorgonzola, parmesan, and fontina—on a white base. Rich and creamy.</description>
     </item>
-    <item>
-      <title>Veggie Supreme</title>
-      <link>https://example.org/menu/veggie-supreme/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/menu/veggie-supreme/</guid>
-      <description>Bell peppers, onions, mushrooms, olives, tomatoes, and spinach. Loaded with fresh vegetables.</description>
-    </item>
   </channel>
 </rss>

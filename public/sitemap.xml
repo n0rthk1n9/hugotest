@@ -47,9 +47,6 @@
     <loc>https://example.org/tags/vegetarian/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/menu/veggie-supreme/</loc>
-    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.org/posts/weekly-special-truffle-mushroom/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -63,5 +60,7 @@
     <lastmod>2025-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/categories/</loc>
+  </url><url>
+    <loc>https://example.org/menu/veggie-supreme/</loc>
   </url>
 </urlset>
